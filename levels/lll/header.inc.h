@@ -1,0 +1,13 @@
+extern const GeoLayout lll_area_1_geo[];
+extern const GeoLayout lll_area_1[];
+extern const Collision lll_area_1_collision[];
+extern const MacroObject lll_area_1_macro_objs[];
+extern Lights1 lll_dl_sm64_material_lights;
+extern u8 lll_dl_Background_ci4[];
+extern u8 lll_dl_Background_ci4_pal_rgba16[];
+extern Vtx lll_dl_Cube_mesh_vtx_0[24];
+extern Gfx lll_dl_Cube_mesh_tri_0[];
+extern Gfx mat_lll_dl_sm64_material[];
+extern Gfx mat_revert_lll_dl_sm64_material[];
+extern Gfx lll_dl_Cube_mesh[];
+extern Gfx lll_dl_material_revert_render_settings[];

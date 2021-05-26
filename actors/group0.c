@@ -25,3 +25,7 @@
 #include "white_particle_small/model.inc.c"
 
 #include "sparkle_animation/model.inc.c"
+
+#include "motos/model.inc.c"
+#include "motos/anims/anim.inc.c"
+UNUSED static const u64 binid_2 = 2;

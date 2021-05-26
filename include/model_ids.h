@@ -25,6 +25,7 @@
 
 #define MODEL_MARIO                       0x01        // mario_geo
 #define MODEL_LUIGI                       0x02        // unused
+#define MODEL_MOTOS                       0xFF       // betah motos
 
 /* Various static level geometry, the geo layout differs but terrain object presets treat them the same.*/
 
@@ -345,6 +346,7 @@
 #define MODEL_BLARGG                      0x54        // blargg_geo
 #define MODEL_BULLY                       0x56        // bully_geo
 #define MODEL_BULLY_BOSS                  0x57        // bully_boss_geo
+
 
 // group 3
 #define MODEL_WATER_BOMB                  0x54        // water_bomb_geo
